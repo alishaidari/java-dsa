@@ -1,0 +1,3 @@
+insert Bladee<SEP>Hotel Breakfast
+print artist
+print song
