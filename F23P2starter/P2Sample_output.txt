@@ -1,0 +1,207 @@
+Location Tree:
+E
+ID Tree:
+This tree is empty
+Search FAILED -- There is no record with ID 1
+Seminars matching keyword VT:
+Insert FAILED - Bad x, y coordinates: -1, 10
+Insert FAILED - Bad x, y coordinates: 10, 128
+Successfully inserted record with ID 1
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 2
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+Successfully inserted record with ID 10
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+Successfully inserted record with ID 3
+ID: 3, Title: Overview of HPC and CSE Research at VT
+Date: 1203301125, Length: 35, X: 0, Y: 0, Cost: 25
+Description: Learn what kind of    research is done on HPC  and CSE at VT
+Keywords: HPC, CSE, computer_science
+ID Tree:
+      null
+    10
+        null
+      3
+        null
+  2
+    null
+1
+  null
+Number of records: 4
+Date Tree:
+        null
+      1203301125
+        null
+    0701250830
+      null
+  0610071600
+    null
+0610051600
+  null
+Number of records: 4
+Keyword Tree:
+            null
+          science
+            null
+        high_performance_computing
+            null
+          grids
+                null
+              computer_science
+                null
+            computer
+              null
+      computation_biology
+        null
+    Virginia_Tech
+        null
+      Virginia_Tech
+        null
+  VT
+      null
+    VT
+        null
+      VT
+          null
+        HPC
+          null
+HCI
+    null
+  Computer_Science
+          null
+        Computer_Science
+            null
+          CSE
+            null
+      Biology
+        null
+    Bioinformatics
+      null
+Number of records: 18
+Cost Tree:
+  null
+45
+    null
+  30
+        null
+      25
+        null
+    17
+      null
+Number of records: 4
+Location Tree:
+I
+  I
+    I
+      I
+        I
+          I
+            I
+              Leaf with 1 objects: 3
+              Leaf with 2 objects: 1 2
+            E
+          Leaf with 1 objects: 10
+        E
+      E
+    E
+  E
+Insert FAILED - There is already a record with ID 10
+Seminars matching keyword VT:
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Found record with ID 1:
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+Seminars with costs in range 30 to 50:
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+7 nodes visited in this search
+Seminars within 1 units of -1, 0:
+Found a record with key value 3 at 0, 0
+8 nodes visited in this search
+Seminars within 2000 units of -1, 0:
+Found a record with key value 3 at 0, 0
+Found a record with key value 1 at 10, 10
+Found a record with key value 2 at 10, 10
+Found a record with key value 10 at 30, 10
+15 nodes visited in this search
+Seminars within 0 units of 10, 10:
+Found a record with key value 1 at 10, 10
+Found a record with key value 2 at 10, 10
+8 nodes visited in this search
+Seminars within 0 units of 11, 11:
+8 nodes visited in this search
+Seminars within 20 units of 10, 10:
+Found a record with key value 3 at 0, 0
+Found a record with key value 1 at 10, 10
+Found a record with key value 2 at 10, 10
+Found a record with key value 10 at 30, 10
+11 nodes visited in this search
+Seminars with dates in range 0 to 1:
+ID: 1, Title: Overview of HCI Research at VT
+Date: 0610051600, Length: 90, X: 10, Y: 10, Cost: 45
+Description: This seminar will present an overview of HCI research at VT
+Keywords: HCI, Computer_Science, VT, Virginia_Tech
+ID: 2, Title: Computational Biology and Bioinformatics in CS at Virginia Tech
+Date: 0610071600, Length: 60, X: 10, Y: 10, Cost: 30
+Description: Introduction to   bioinformatics and computation biology
+Keywords: Bioinformatics, computation_biology, Biology, Computer_Science, VT, Virginia_Tech
+ID: 10, Title: Computing Systems Research at VT
+Date: 0701250830, Length: 30, X: 30, Y: 10, Cost: 17
+Description: Seminar about the      Computing systems research at      VT
+Keywords: high_performance_computing, grids, VT, computer, science
+8 nodes visited in this search
+Record with ID 1 successfully deleted from the database
+Delete FAILED -- There is no record with ID 1
+ID Tree:
+    null
+  10
+      null
+    3
+      null
+2
+  null
+Number of records: 3
+Location Tree:
+I
+  I
+    I
+      I
+        I
+          I
+            I
+              Leaf with 1 objects: 3
+              Leaf with 1 objects: 2
+            E
+          Leaf with 1 objects: 10
+        E
+      E
+    E
+  E
